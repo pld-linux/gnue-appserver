@@ -51,5 +51,5 @@ rm -rf $RPM_BUILD_ROOT
 %doc AUTHORS BUGS ChangeLog NEWS README* TODO doc/*.* doc/{api,devguide,technotes} samples
 %attr(755,root,root) %{_bindir}/*
 %{py_sitedir}/gnue
-%{_datadir}/gnue
+%{_datadir}/gnue/*
 %{_mandir}/man?/*
