@@ -7,6 +7,7 @@ License:	GPL
 # ?
 Group:		Libraries/Python
 Source0:	http://www.gnue.org/downloads/current/%{name}-%{version}.tar.gz
+# Source0-md5:	9cea2c147cf8f34c52a155303002ad40
 URL:		http://www.gnue.org/
 BuildRequires:	gnue-common
 BuildRequires:	python
