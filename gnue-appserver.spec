@@ -1,5 +1,5 @@
 Summary:	GNUe Application Server - the core of the GNU Enterprise system
-Summary(pl):	GNUe Application Server - rdzeñ systemu GNU Enterprise
+Summary(pl.UTF-8):   GNUe Application Server - rdzeÅ„ systemu GNU Enterprise
 Name:		gnue-appserver
 Version:	0.4.1
 Release:	0.1
@@ -28,14 +28,14 @@ access to those fields and methods into database communication
 and calling of scripts, it cares about stability, security, speed,
 and consistency.
 
-%description -l pl
-GNUe Application Server (AppServer) to rdzeñ n-warstwowego wariantu
-systemu GNU Enterprise. Udostêpnia on dla frontendu (czy to bêdzie
-GNUe Forms, GNUe Reports czy dowolne inne narzêdzie) definiowalne
-przez u¿ytkownika obiekty biznesowe z dowolnymi polami i metodami.
-Podczas przekszta³cania dostêpu do tych pól i metod na komunikacjê z
-baz± danych i wywo³ania skryptów, serwer dba o stabilno¶æ,
-bezpieczeñstwo, szybko¶æ i spójno¶æ.
+%description -l pl.UTF-8
+GNUe Application Server (AppServer) to rdzeÅ„ n-warstwowego wariantu
+systemu GNU Enterprise. UdostÄ™pnia on dla frontendu (czy to bÄ™dzie
+GNUe Forms, GNUe Reports czy dowolne inne narzÄ™dzie) definiowalne
+przez uÅ¼ytkownika obiekty biznesowe z dowolnymi polami i metodami.
+Podczas przeksztaÅ‚cania dostÄ™pu do tych pÃ³l i metod na komunikacjÄ™ z
+bazÄ… danych i wywoÅ‚ania skryptÃ³w, serwer dba o stabilnoÅ›Ä‡,
+bezpieczeÅ„stwo, szybkoÅ›Ä‡ i spÃ³jnoÅ›Ä‡.
 
 %prep
 %setup -q
