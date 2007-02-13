@@ -1,5 +1,5 @@
 Summary:	GNUe Application Server - the core of the GNU Enterprise system
-Summary(pl.UTF-8):   GNUe Application Server - rdzeń systemu GNU Enterprise
+Summary(pl.UTF-8):	GNUe Application Server - rdzeń systemu GNU Enterprise
 Name:		gnue-appserver
 Version:	0.4.1
 Release:	0.1
